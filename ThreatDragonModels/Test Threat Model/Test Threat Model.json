@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "description": "Test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "testTM",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
